@@ -1,5 +1,9 @@
 # PL/SQL API for Stripe
 
+Credit: Originally forked from Trent Schafer, his blog post was key to getting me started with Stripe integration. You can read about it here:https://apextips.blogspot.com/2016/02/accepting-payments-with-stripe-in-apex_26.html
+
+Since I was building out the rest of the API for myself I thought others might find it useful as well. 
+
 This API is used to charge cards from an APEX application. Basic usage:
 
 ```plsql
